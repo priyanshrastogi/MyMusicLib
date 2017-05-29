@@ -1,2 +1,2 @@
 # MyMusicCloud
-A desktop application, Your personal music library.
+A desktop application prototype, Your personal music library.
